@@ -1,6 +1,7 @@
 {
   "stars": [
       {
+        "regNummer": 2020000394,
         "name": "Lars",
         "year": 2022,
         "month": 6,
@@ -9,6 +10,7 @@
         "lat": 14
       },
       {
+        "regNummer": 2020000391,
         "name": "Franz",
         "year": 2022,
         "month": 7,
@@ -17,6 +19,7 @@
         "lat": 3
       },
       {
+        "regNummer": 2020000392,
         "name": "Lea",
         "year": 2022,
         "month": 8,
