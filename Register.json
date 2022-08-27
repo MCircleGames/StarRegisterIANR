@@ -6,23 +6,23 @@
         "month": 6,
         "day": 12,
         "long": 13,
-        "lat": 14,
+        "lat": 14
       },
       {
-        "name": "Lars",
+        "name": "Franz",
         "year": 2022,
-        "month": 6,
-        "day": 12,
-        "long": 13,
-        "lat": 14,
+        "month": 7,
+        "day": 1,
+        "long": 2,
+        "lat": 3
       },
       {
-        "name": "Lars",
+        "name": "Lea",
         "year": 2022,
-        "month": 6,
-        "day": 12,
-        "long": 13,
-        "lat": 14,
+        "month": 8,
+        "day": 4,
+        "long": 5,
+        "lat": 6
       }
   ]
 }
