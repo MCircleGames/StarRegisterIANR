@@ -1,0 +1,28 @@
+{
+  "stars": [
+      {
+        "name": "Lars",
+        "year": 2022,
+        "month": 6,
+        "day": 12,
+        "long": 13,
+        "lat": 14,
+      },
+      {
+        "name": "Lars",
+        "year": 2022,
+        "month": 6,
+        "day": 12,
+        "long": 13,
+        "lat": 14,
+      },
+      {
+        "name": "Lars",
+        "year": 2022,
+        "month": 6,
+        "day": 12,
+        "long": 13,
+        "lat": 14,
+      }
+  ]
+}
